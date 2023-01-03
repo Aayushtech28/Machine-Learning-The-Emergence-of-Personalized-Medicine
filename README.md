@@ -1,43 +1,42 @@
 # Welcome 👋 to the Personalized Medicine🧪using Machine Learning🤖repository! This project demonstrates the use of🧠🦾machine learning techniques in the field of personalized medicine.
 
-======================================================
+
 [![DOI](https://zenodo.org/badge/584337849.svg)](https://zenodo.org/badge/latestdoi/584337849)
-======================================================
+============================================================================================================
+
 Here you go ⋙⋙⋙⋙
+
+![index personalize management](https://user-images.githubusercontent.com/69672911/210392902-2096ff3f-743c-40f2-8cef-3f05648de599.png)
+
 
 Directory Layout🗃️ For Repo is
 ======================================================
 * [Machine-Learning-The-Emergence-of-Personalized-Medicine](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine)---------------------------# Application repository
-   * [Example-code](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/tree/main/Example-code)-----------------------#  The folder contains all TensorFlow.js sample files used in paper.
-         * [DecisionTree.Tensorflow.js](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Example code/DecisionTree.Tensorflow.js)
-         * [SVM.Tensorflow.js ](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Example-code/SVM.Tensorflow.js)
-         * [SVMkernal.Tensorflow.js](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Examplecode/SVMkernal.Tensorflow.js)
-   * [Images](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/tree/main/Images)-----------------------# The folder contains all diagrams, figures and images used in research paper.
-         * [Machine learnine algorithms.png](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Images/ML.png)
-         * [Ssupport Vector Machine NORMAL DIAGRAM.png](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Images/SVM%20NORMAL%20DIAGRAM.png)
-         * [Support vector Machine performance metrics model.png](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Images/SVM%20model.png)
-         * [Growth Of Machine Learning over Period Of Years.png](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Images/average%20growth%20of%20machine%20learning.png)
-         * [Decision Tree{Male & Female}.png](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Images/decision%20tree.png)
-         * [Another Decision tree {Male and female}.png](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Images/decision%20tree1.png)
-         * [Support Vectoe Machine kernal.png](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Images/svm%20kernal.png)
-   * [Matplotlib-code](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/tree/main/Matplotlib-code)--------------------# The folder contains SVM code for creating figures used in research paper.
-         * [Support Vectoe Machine Code.py](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Matplotlib-code/SVM%20code.py)
-         * [Support Vectoe Machine Kernal1.py](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Matplotlib-code/svm%20kernal1.py)
-         * [Support Vectoe Machine Line Model.py](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Matplotlib-code/svm%20line%20model.py)
-         * [Support Vectoe Machine Kernel.py](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Matplotlib-code/svmkernel.py)
+* [Example-code](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/tree/main/Example-code)-----------------------#  The folder contains all TensorFlow.js sample files used in paper.
+* [DecisionTree.Tensorflow.js](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Example code/DecisionTree.Tensorflow.js)
+* [SVM.Tensorflow.js ](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Example-code/SVM.Tensorflow.js)
+* [SVMkernal.Tensorflow.js](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Examplecode/SVMkernal.Tensorflow.js)
 
-======================================================
+* [Images](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/tree/main/Images)-----------------------# The folder contains all diagrams, figures and images used in research paper.
+* [Machine learnine algorithms.png](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Images/ML.png)
+* [Ssupport Vector Machine NORMAL DIAGRAM.png](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Images/SVM%20NORMAL%20DIAGRAM.png)
+* [Support vector Machine performance metrics model.png](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Images/SVM%20model.png)
+* [Growth Of Machine Learning over Period Of Years.png](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Images/average%20growth%20of%20machine%20learning.png)
+* [Decision Tree{Male & Female}.png](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Images/decision%20tree.png)
+* [Another Decision tree {Male and female}.png](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Images/decision%20tree1.png)
+* [Support Vectoe Machine kernal.png](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Images/svm%20kernal.png)
 
-![index personalize management](https://user-images.githubusercontent.com/69672911/210392902-2096ff3f-743c-40f2-8cef-3f05648de599.png)
-
-======================================================
+* [Matplotlib-code](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/tree/main/Matplotlib-code)--------------------# The folder contains SVM code for creating figures used in research paper.
+* [Support Vectoe Machine Code.py](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Matplotlib-code/SVM%20code.py)
+* [Support Vectoe Machine Kernal1.py](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Matplotlib-code/svm%20kernal1.py)
+* [Support Vectoe Machine Line Model.py](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Matplotlib-code/svm%20line%20model.py)
+* [Support Vectoe Machine Kernel.py](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Matplotlib-code/svmkernel.py)
 
 
 Problem statement🤔😬
 ======================================================
 
 The goal of this paper is to create a machine learning model that can be used in personalized medicine to predict the likelihood of a patient responding to medical treatment. The model will be implemented in TensorFlow.js and trained on a dataset of patient records that includes relevant features such as medical history and treatment history. The performance of the model will be evaluated using various metrics, and the ultimate aim is to create a tool that can be used by healthcare professionals to make more informed treatment decisions and improve patient outcomes. The project will serve as a starting point for further development and exploration of machine learning in personalized medicine, a field that has the potential to revolutionize healthcare.
-
 
 
 WHAT IS ENTIRE PAPER📜 ALL ABOUT?
