@@ -2,3 +2,6 @@
 
 [![DOI](https://zenodo.org/badge/584337849.svg)](https://zenodo.org/badge/latestdoi/584337849)
 
+index personalize management.png
+
+
