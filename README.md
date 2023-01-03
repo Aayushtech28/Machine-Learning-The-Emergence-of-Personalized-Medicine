@@ -13,7 +13,7 @@ Directory Layout🗃️ For Repo is
 ======================================================
 * [Machine-Learning-The-Emergence-of-Personalized-Medicine](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine)---------------------------# Application repository
 * [Example-code](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/tree/main/Example-code)-----------------------#  The folder contains all TensorFlow.js sample files used in paper.
-* [DecisionTree.Tensorflow.js](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Example code/DecisionTree.Tensorflow.js)
+* [DecisionTree.Tensorflow.js](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Examplecode/DecisionTree.Tensorflow.js)
 * [SVM.Tensorflow.js ](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Example-code/SVM.Tensorflow.js)
 * [SVMkernal.Tensorflow.js](https://github.com/Aayushtech28/Machine-Learning-The-Emergence-of-Personalized-Medicine/blob/main/Examplecode/SVMkernal.Tensorflow.js)
 
